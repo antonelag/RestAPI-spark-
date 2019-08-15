@@ -1,0 +1,10 @@
+GET http://localhost:3000/topics/5d4d770003b1453eecea2e49
+
+###
+
+POST http://localhost:3000/topics
+
+{
+    "title":"First topic",
+    "text":"blah"
+}
